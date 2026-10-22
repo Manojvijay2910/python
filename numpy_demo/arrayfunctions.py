@@ -1,4 +1,4 @@
-from numpy import *
+from numpy_demo import *
 
 a1 = arange(12)
 print(a1)

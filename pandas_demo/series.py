@@ -1,4 +1,4 @@
-import pandas as pd
+import pandas_demo as pd
 
 reviews = pd.Series([4.6, 4.4, 4.8, 5])
 print(reviews, type(reviews))

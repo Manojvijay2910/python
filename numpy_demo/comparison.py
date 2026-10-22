@@ -1,4 +1,4 @@
-from numpy import *
+from numpy_demo import *
 
 a1 = array([10,30,50,70,90])
 a2 = array([20,30,50,70,90])

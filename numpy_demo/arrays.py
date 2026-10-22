@@ -1,4 +1,4 @@
-from numpy import *
+from numpy_demo import *
 
 arr = array([1,2,3,4,5])
 carr = array(['a','b','c','d','e'])

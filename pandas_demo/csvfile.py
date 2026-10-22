@@ -1,4 +1,4 @@
-import pandas as pd
+import pandas_demo as pd
 
 customers = pd.read_csv('customer.csv')
 print(customers)
